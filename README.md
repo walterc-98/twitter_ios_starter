@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Twitter - Part I
 
-**Name of your app** is a basic twitter app to read your tweets.
+This is a basic twitter app to read your tweets.
 
 Time spent: **5** hours spent in total
 
